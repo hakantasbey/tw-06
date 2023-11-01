@@ -1,0 +1,23 @@
+.navbar-toggler{
+    color: rgba(255,255,255,.55);
+}
+
+.nav-item:hover a{
+    color: #c1c1c1 !important;
+}
+
+.banner{
+    border: 2px solid red;
+    height: 100vh;
+    background: url(../img/banner.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
+.navbar-toggler-icon{
+
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.55);
+    border-color: rgba(255,255,255,.1);
+}
